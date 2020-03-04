@@ -1,0 +1,19 @@
+.container {
+    margin-top:25vh;
+    margin-bottom:25vh;
+  }
+  
+  .card{
+    margin: auto;
+    padding: 80px;
+    width: 55%;
+  }
+  
+  @media only screen and (max-width: 770px) {
+    .card
+    {
+      width: 85%;
+      padding: 10px;
+    }
+   
+  }
